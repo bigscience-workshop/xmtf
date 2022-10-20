@@ -230,8 +230,6 @@ import numpy as np
 
 fig, ax = plt.subplots(figsize=(36,6))
 
-ax2 = ax.twinx()
-
 langs = sorted(XP3_DICT, key=lambda k: XP3_DICT[k], reverse=True)
 
 # Info on percentages
@@ -265,8 +263,9 @@ ax.get_yaxis().set_major_formatter(matplotlib.ticker.FormatStrFormatter('%.4f'))
 ax.get_yaxis().set_major_formatter(matplotlib.ticker.FormatStrFormatter('%g')) # Rmv trailing zeroes
 
 lines, labels = ax.get_legend_handles_labels()
-lines2, labels2 = ax2.get_legend_handles_labels()
-ax.legend(lines + lines2, labels + labels2, fontsize=15, ncol=2)
+ax.legend(lines, labels, fontsize=15, ncol=2)
+# lines2, labels2 = ax2.get_legend_handles_labels()
+#ax.legend(lines + lines2, labels + labels2, fontsize=15, ncol=2)
 
 
 plt.savefig('language_plot.png', dpi=300, bbox_inches='tight')

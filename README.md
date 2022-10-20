@@ -23,7 +23,7 @@ TODO: Paperlink
 
 ### Evaluation
 
-- Logprobability tasks: TODO: Add t-zero evaluation to this repo?
+- Logprobability tasks: []
 - Generation Tasks: [bigscience-workshop/lm-evaluation-harness](https://github.com/bigscience-workshop/lm-evaluation-harness)
 - Results are all available in this repository: https://huggingface.co/datasets/bigscience/evaluation-results
 
