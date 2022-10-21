@@ -1,5 +1,5 @@
 """
-Plot with languages across x-axis & percentage for ROOTS, mC4 & xP3 on y-axis
+Plot with languages across x-axis & percentage for ROOTS-1%-IDENTIFY, ROOTS-1% & mC4 on y-axis
 """
 
 # ISO Tokens Pages mT5
@@ -180,10 +180,17 @@ for line in MC4.split("\n")[1:-1]:
     MC4_BTS_DICT[code_1] = float(bts_1.replace(",", ""))
     MC4_BTS_DICT[code_2] = float(bts_2.replace(",", ""))
 
+import json
+meta_language, detect_language = json.load( open( "meta_roots_1e-1.json", "r") ) 
+meta_language = {k: sum([lan_v for k_, lan_v in meta_language[k].items()]) for k, v in meta_language.items() }
+ROOTS_SUM_SAMPLE = sum( [v for k, v in meta_language.items()] )
+ROOTS_SAMPLED_DICT = {k: (v / ROOTS_SUM_SAMPLE) * 100 for k, v in meta_language.items()}
 
-for k in {'tn', 'ts', 'ak', 'rn', 'tum', 'bm', 'tw', 'rw', 'nso', 'lg', 'as', 'or', 'wo', 'ln', 'ki', 'code', 'fon'}:
-    MC4_PCT_DICT[k] = 0
-    MC4_BTS_DICT[k] = 0
+
+ROOTS_SAMPLED_IDENTIFY = detect_language
+
+ROOTS_SUM_IDENTIFY = sum( [v for k, v in ROOTS_SAMPLED_IDENTIFY.items()] )
+ROOTS_SAMPLED_IDENTIFY = {k: (v / ROOTS_SUM_IDENTIFY) * 100 for k, v in ROOTS_SAMPLED_IDENTIFY.items()}
 
 ROOTS_DICT = {}
 ROOTS_BTS_DICT = {}
@@ -207,7 +214,6 @@ ROOTS_BTS_DICT.pop("zhs")
 
 ROOTS_DICT = {k: (v / ROOTS_SUM) * 100 for k, v in ROOTS_DICT.items()}
 
-
 XP3_DICT = {}
 XP3_BTS_DICT = {}
 
@@ -228,20 +234,29 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
+plt.rcParams['font.size'] = 11
 fig, ax = plt.subplots(figsize=(36,6))
 
-langs = sorted(XP3_DICT, key=lambda k: XP3_DICT[k], reverse=True)
+ax2 = ax.twinx()
 
-# Info on percentages
-print({l: ROOTS_DICT[l] for l in langs})
-print({l: XP3_DICT[l] for l in langs})
+MC4_PCT_DICT.pop('-')
+langs = sorted(MC4_PCT_DICT, key=lambda k: ROOTS_SAMPLED_IDENTIFY[k], reverse=True)
+
+for lan in langs:
+    if lan not in ROOTS_DICT:
+        ROOTS_DICT[lan] = 0
+    if lan not in XP3_DICT:
+        XP3_DICT[lan] = 0
+    if lan not in ROOTS_SAMPLED_DICT:
+        ROOTS_SAMPLED_DICT[lan] = 0
+
+print(langs)
 
 #x_axis = np.array(list(range(0, int(len(langs) * 1), 1)))
 x_axis = np.arange(len(langs))
 x_axis = np.array([i + 1*i for i in x_axis])
 
 # https://coolors.co/palette/8ecae6-219ebc-023047-ffb703-fb8500
-
 MODEL_TO_COLOR = {
     #'mT5 XXL': '#c7a012',
     'mT0 13B': '#FB8500',
@@ -255,11 +270,13 @@ MODEL_TO_COLOR = {
     #'T5+LM (11B)': '#2874a6 ', 
 }
 
-ax.bar(x_axis - 0.6, [XP3_DICT[k] for k in langs], width=0.6, label = 'xP3', color=MODEL_TO_COLOR["BLOOMZ 176B"])
-ax.bar(x_axis,  [ROOTS_DICT[k] for k in langs], width=0.6, label = 'ROOTS', color=MODEL_TO_COLOR["BLOOM 176B"])
-ax.bar(x_axis + 0.6, [MC4_PCT_DICT[k] for k in langs], width=0.6, label = 'mC4', color=MODEL_TO_COLOR["mT0 13B"])
+# ax.bar(x_axis - 0.6, [XP3_DICT[k] for k in langs], width=0.6, label = 'xP3', color=MODEL_TO_COLOR["BLOOMZ 176B"])
+# ax.bar(x_axis,  [ROOTS_DICT[k] for k in langs], width=0.6, label = 'ROOTS', color=MODEL_TO_COLOR["BLOOM 176B"])
+# ax.bar(x_axis + 0.6, [MC4_PCT_DICT[k] for k in langs], width=0.6, label = 'mC4', color=MODEL_TO_COLOR["mT0 13B"])
 
-# ax2.plot(x_axis - 0.6, [XP3_BTS_DICT[k] for k in langs], marker="o", label = 'xP3 Bytes', color="#8ECAE6")
+ax.bar(x_axis - 0.6,  [ROOTS_SAMPLED_IDENTIFY[k] for k in langs], width=0.6, label = 'ROOTS-IDENTIFY-1%', color=MODEL_TO_COLOR["BLOOMZ 176B"])
+ax.bar(x_axis,  [ROOTS_SAMPLED_DICT[k] for k in langs], width=0.6, label = 'ROOTS-1%', color=MODEL_TO_COLOR["BLOOM 176B"])
+ax.bar(x_axis + 0.6, [MC4_PCT_DICT[k] for k in langs], width=0.6, label = 'mC4', color=MODEL_TO_COLOR["mT0 13B"])
 
 ax.set_xticks(x_axis, langs)
 
@@ -276,9 +293,8 @@ ax.get_yaxis().set_major_formatter(matplotlib.ticker.FormatStrFormatter('%.4f'))
 ax.get_yaxis().set_major_formatter(matplotlib.ticker.FormatStrFormatter('%g')) # Rmv trailing zeroes
 
 lines, labels = ax.get_legend_handles_labels()
-ax.legend(lines, labels, fontsize=15, ncol=1)
-# lines2, labels2 = ax2.get_legend_handles_labels()
-#ax.legend(lines + lines2, labels + labels2, fontsize=15, ncol=2)
+lines2, labels2 = ax2.get_legend_handles_labels()
+ax.legend(lines + lines2, labels + labels2, fontsize=15, ncol=2)
 
-
-plt.savefig('language_plot.png', dpi=300, bbox_inches='tight')
+# plt.show()
+plt.savefig('language_plot_identify.pdf', dpi=300, bbox_inches='tight')
