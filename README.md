@@ -6,19 +6,20 @@ This repository provides an overview of all components used for the creation of 
 
 <!-- TOC -->
 
-- [Data](#data)
-- [Models](#models)
-- [Create xP3](#create-xp3)
-- [Train models](#train-models)
-    - [BLOOMZ](#bloomz)
-    - [mT0](#mt0)
-- [Evaluate models](#evaluate-models)
-    - [Rank Evaluation](#rank-evaluation)
-    - [Generation Evaluation](#generation-evaluation)
-- [Plots & Tables](#plots--tables)
-    - [Plots](#plots)
-    - [Tables](#tables)
-- [Citation](#citation)
+- [Crosslingual Generalization through Multitask Finetuning](#crosslingual-generalization-through-multitask-finetuning)
+    - [Data](#data)
+    - [Models](#models)
+    - [Create xP3](#create-xp3)
+    - [Train models](#train-models)
+        - [BLOOMZ](#bloomz)
+        - [mT0](#mt0)
+    - [Evaluate models](#evaluate-models)
+        - [Rank Evaluation](#rank-evaluation)
+        - [Generation Evaluation](#generation-evaluation)
+    - [Plots & Tables](#plots--tables)
+        - [Plots](#plots)
+        - [Tables](#tables)
+    - [Citation](#citation)
 
 <!-- /TOC -->
 
@@ -147,7 +148,7 @@ This repository provides an overview of all components used for the creation of 
 We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP3). If you want to recreate it, follow these steps:
 
 1. Get promptsource: For xP3mt `git clone -b xp3mt https://github.com/Muennighoff/promptsource.git`, for xP3 `git clone -b tr13 https://github.com/Muennighoff/promptsource.git` & install `cd promptsource; pip install -e .`
-2. Get datasets `pip install -q datasets` & iso `pip install -q iso-639`
+2. Get packages `pip install -q datasets iso-639`
 3. Get the [creation script](https://github.com/bigscience-workshop/bigscience/blob/master/data/xp3/prepare_xp3_train.py) & edit it if necessary:
 - For xP3mt, set `USE_ENGLISH_PROMPTS = False` in the beginning
 - For xP3, set `USE_ENGLISH_PROMPTS = True` in the beginning
@@ -158,14 +159,14 @@ We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP
 ### BLOOMZ
 
 1. Download the pretrained model [checkpoint](https://huggingface.co/bigscience/bloom-optimizer-states), which is of shape PP=12, TP=4, DP=4. If you want to continue finetuning, you can also use [our finetuned checkpoint](https://huggingface.co/bigscience/bloomz-optimizer-states), which is of shape PP=72, TP=1, DP=4.
-2. Setup the training code: Download [bigscience-workshop/Megatron-DeepSpeed](https://github.com/bigscience-workshop/Megatron-DeepSpeed) & follow its [setup guide](https://github.com/bigscience-workshop/Megatron-DeepSpeed/tree/t0loading#get-started-fast).
+2. Setup the training code: `git clone -b t0loading https://github.com/bigscience-workshop/Megatron-DeepSpeed` & follow its [setup guide](https://github.com/bigscience-workshop/Megatron-DeepSpeed/tree/t0loading#get-started-fast).
 3. Download the Megatron-DeepSpeed processed [xP3megds](https://huggingface.co/datasets/bigscience/xP3megds) or repreprocess it for Megatron-DeepSpeed yourself by downloading [xP3](https://huggingface.co/datasets/bigscience/xP3), removing the `merged_{lang}.jsonl` files & using the script [here](https://github.com/bigscience-workshop/bigscience/blob/master/data/xp3/xp3_jsonl_to_meg.slurm).
 4. Setup & run training script. We use SLURM scripts available at [bigscience-workshop/bigscience/train/tr13-mtf](https://github.com/bigscience-workshop/bigscience/tree/master/train/tr13-mtf) and referred to as `xp3capmixnewcodelonglossseq`. E.g. [this is the script launched to train bloomz](https://github.com/bigscience-workshop/bigscience/blob/master/train/tr13-mtf/tr13-176B-mtf-xp3capmixnewcodelonglossseq.slurm). Important parts of the script to modify are:
 - `#SBATCH` variables, such as nodes, gpus, time, etc. - Our SLURM guide is [here](https://github.com/bigscience-workshop/bigscience/tree/master/jz/slurm#slurm-how-to)
 - `source $six_ALL_CCFRWORK/start-tr13f-6B3-ml-t0` to point to your own conda environment setup via Megatron-DeepSpeed
 - PATH environment variables, notably
-    - `TRAIN_DATA_PATH` & `VALID_DATA_PATH`, which point to files pointing to your processed training and validation data. We provide the examples files in this repository (`xp3capmixnewcodelong_train.txt`), but you will likely want to change the paths inside. The percentages are based on how much each dataset makes up in xP3 with code being slightly upsampled.
-- PP_SIZE=72, TP_SIZE=1 & BATCH SIZE & co specifying the layout. This will depend on the hardware available to you. If you change, you may have to reshape the model.
+    - `TRAIN_DATA_PATH` & `VALID_DATA_PATH`, which point to files pointing to your processed training and validation data. We provide our files in this repository (`xp3capmixnewcodelong_train.txt` & `xp3capmixnewcodelong_validation.txt`), but you will likely want to change the paths inside. The percentages per language are based on how much each language makes up in xP3 with code being slightly upsampled.
+- PP_SIZE=72, TP_SIZE=1 & BATCH SIZE & co specifying the layout. This will depend on the hardware available to you. If you change, you may have to reshape the model. For reshaping you need to write new code or use a universal checkpoint (Still needs to be uploaded).
 - If you want to restart from a saved checkpoint (e.g. after training a few steps), make sure to remove the the `--no-load-optim` & `--reset-progress` flags
 
 Helpful resources:
