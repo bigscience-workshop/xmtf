@@ -281,4 +281,4 @@ ax.legend(lines, labels, fontsize=15, ncol=1)
 #ax.legend(lines + lines2, labels + labels2, fontsize=15, ncol=2)
 
 
-plt.savefig('language_plot.png', dpi=300, bbox_inches='tight')
+plt.savefig('xp3_languages.pdf', dpi=300, bbox_inches='tight')

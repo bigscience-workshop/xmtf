@@ -1,14 +1,13 @@
-## BLOOMZ & mT0
+# Crosslingual Generalization through Multitask Finetuning
 
-This repository provides an overview of the various components used for BLOOMZ & mT0.
+![](xmtf_banner.png)
 
-TODO: A cool banner / logo
-TODO: Paperlink
+This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](TODO).
 
 ### Data
 
 - [xP3](https://huggingface.co/datasets/bigscience/xP3) created via TODO
-- [xP3mt](https://huggingface.co/datasets/bigscience/xP3mt) ; TODO
+- [xP3mt](https://huggingface.co/datasets/bigscience/xP3mt)
 
 ### Models
 
@@ -29,5 +28,5 @@ TODO: Paperlink
 
 ### Plots & Tables
 
-- Scripts in `plotstables/`
+- Scripts for all automatically created plots & tables in the paper are in `plotstables/`
 
