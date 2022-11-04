@@ -33,12 +33,12 @@ This repository provides an overview of all components used for the creation of 
 <tr>
 <td><a href=https://huggingface.co/datasets/bigscience/xP3>xP3</a></t> 
 <td>Mixture of 13 training tasks in 46 languages with English prompts</td>
-<td><a href=https:/huggingface.co/bigscience/bloomz>BLOOMZ</a> & <a href=https:/huggingface.co/bigscience/mt0-xxl>mT0-13B</a></td>
+<td><a href=https://huggingface.co/bigscience/bloomz>BLOOMZ</a> & <a href=https://huggingface.co/bigscience/mt0-xxl>mT0-13B</a></td>
 </tr>
 <tr>
 <td><a href=https://huggingface.co/datasets/bigscience/xP3mt>xP3mt</a></t> 
 <td>Mixture of 13 training tasks in 46 languages with prompts in 20 languages (machine-translated from English)</td>
-<td><a href=https:/huggingface.co/bigscience/bloomz-mt>BLOOMZ-MT</a> & <a href=https:/huggingface.co/bigscience/mt0-xxl-mt>mT0-13B-MT</a></td>
+<td><a href=https://huggingface.co/bigscience/bloomz-mt>BLOOMZ-MT</a> & <a href=https://huggingface.co/bigscience/mt0-xxl-mt>mT0-13B-MT</a></td>
 </tr>
 <tr>
 <td><a href=https://huggingface.co/datasets/bigscience/xP3all>xP3all</a></t> 
@@ -48,12 +48,12 @@ This repository provides an overview of all components used for the creation of 
 <tr>
 <td><a href=https://huggingface.co/datasets/bigscience/xP3megds>xP3megds</a></t> 
 <td><a href=https://github.com/bigscience-workshop/Megatron-DeepSpeed>Megatron-DeepSpeed</a> processed version of xP3</td>
-<td><a href=https:/huggingface.co/bigscience/bloomz>BLOOMZ</a></td>
+<td><a href=https://huggingface.co/bigscience/bloomz>BLOOMZ</a></td>
 </tr>
 <tr>
 <td><a href=https://huggingface.co/datasets/Muennighoff/P3>P3</a></t> 
 <td>Repreprocessed version of the English-only <a href=https://huggingface.co/datasets/bigscience/P3>P3</a> with 8 training tasks</td>
-<td><a href=https:/huggingface.co/bigscience/bloomz-p3>BLOOMZ-P3</a> & <a href=https:/huggingface.co/bigscience/mt0-xxl-p3>mT0-13B-P3</a></td>
+<td><a href=https://huggingface.co/bigscience/bloomz-p3>BLOOMZ-P3</a> & <a href=https://huggingface.co/bigscience/mt0-xxl-p3>mT0-13B-P3</a></td>
 </tr>
 </table>
 
