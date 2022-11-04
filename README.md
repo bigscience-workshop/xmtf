@@ -2,24 +2,23 @@
 
 ![](xmtf_banner.png)
 
-This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](TODO).
+This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786).
 
 <!-- TOC -->
 
-- [Crosslingual Generalization through Multitask Finetuning](#crosslingual-generalization-through-multitask-finetuning)
-    - [Data](#data)
-    - [Models](#models)
-    - [Create xP3](#create-xp3)
-    - [Train models](#train-models)
-        - [BLOOMZ](#bloomz)
-        - [mT0](#mt0)
-    - [Evaluate models](#evaluate-models)
-        - [Rank Evaluation](#rank-evaluation)
-        - [Generation Evaluation](#generation-evaluation)
-    - [Plots & Tables](#plots--tables)
-        - [Plots](#plots)
-        - [Tables](#tables)
-    - [Citation](#citation)
+- [Data](#data)
+- [Models](#models)
+- [Create xP3](#create-xp3)
+- [Train models](#train-models)
+    - [BLOOMZ](#bloomz)
+    - [mT0](#mt0)
+- [Evaluate models](#evaluate-models)
+    - [Rank Evaluation](#rank-evaluation)
+    - [Generation Evaluation](#generation-evaluation)
+- [Plots & Tables](#plots--tables)
+    - [Plots](#plots)
+    - [Tables](#tables)
+- [Citation](#citation)
 
 <!-- /TOC -->
 
@@ -240,5 +239,12 @@ We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/
 ## Citation
 
 ```bibtex
-TODO
+@misc{muennighoff2022crosslingual,
+      title={Crosslingual Generalization through Multitask Finetuning}, 
+      author={Niklas Muennighoff and Thomas Wang and Lintang Sutawika and Adam Roberts and Stella Biderman and Teven Le Scao and M Saiful Bari and Sheng Shen and Zheng-Xin Yong and Hailey Schoelkopf and Xiangru Tang and Dragomir Radev and Alham Fikri Aji and Khalid Almubarak and Samuel Albanie and Zaid Alyafeai and Albert Webson and Edward Raff and Colin Raffel},
+      year={2022},
+      eprint={2211.01786},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
