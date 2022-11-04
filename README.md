@@ -202,7 +202,7 @@ We use [bigscience-workshop/lm-evaluation-harness](https://github.com/bigscience
 
 We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/openai_humaneval):
 
-1. Get code evaluation dataset `git clone https://github.com/loubnabnl/bloom-code-evaluation`.
+1. Get code evaluation code `git clone https://github.com/loubnabnl/bloom-code-evaluation` & go through its setup.
 2. Set `prepend_eos` to `False` in `code_eval.py` at `complete_code(model, tokenizer, prompt, num_completions=1, prepend_eos=True, **gen_kwargs)` i.e. `complete_code(model, tokenizer, prompt, num_completions=1, prepend_eos=False, **gen_kwargs)`.
 3. Download model & run evaluation script swapping out MODEL_CKPT for your path, for example for bloomz use [this](https://github.com/loubnabnl/bloom-code-evaluation/blob/master/generate_code_bloom.slurm).
 
