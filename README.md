@@ -79,8 +79,8 @@ This repository provides an overview of all components used for the creation of 
 </tr>
 <tr>
 <td>Finetuned Model</td>
-<td><a href=https://huggingface.co/bigscience/mt0-base>mt0-base</a></td>
 <td><a href=https://huggingface.co/bigscience/mt0-small>mt0-small</a></td>
+<td><a href=https://huggingface.co/bigscience/mt0-base>mt0-base</a></td>
 <td><a href=https://huggingface.co/bigscience/mt0-large>mt0-large</a></td>
 <td><a href=https://huggingface.co/bigscience/mt0-xl>mt0-xl</a></td>
 <td><a href=https://huggingface.co/bigscience/mt0-xxl>mt0-xxl</a></td>
@@ -128,8 +128,8 @@ This repository provides an overview of all components used for the creation of 
 <th colspan="12">Original pretrained checkpoints. Not recommended.</th>
 <tr>
 <td>Pretrained Model</td>
-<td><a href=https://huggingface.co/google/mt5-base>mt5-base</a></td>
 <td><a href=https://huggingface.co/google/mt5-small>mt5-small</a></td>
+<td><a href=https://huggingface.co/google/mt5-base>mt5-base</a></td>
 <td><a href=https://huggingface.co/google/mt5-large>mt5-large</a></td>
 <td><a href=https://huggingface.co/google/mt5-xl>mt5-xl</a></td>
 <td><a href=https://huggingface.co/google/mt5-xxl>mt5-xxl</a></td>
