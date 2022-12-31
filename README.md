@@ -197,8 +197,7 @@ We evaluate the models on Rank Evaluation on [XCOPA](https://huggingface.co/data
 We evaluate generation on translation & summarization during training for validation:
 
 1. Get promptsource fork: `git clone -b xp3mt https://github.com/Muennighoff/promptsource` & `cd promptsource; pip install -e .`
-2. Get [bigscience-workshop/lm-evaluation-harness](https://github.com/bigscience-workshop/lm-evaluation-harness)
-We use [bigscience-workshop/lm-evaluation-harness](https://github.com/bigscience-workshop/lm-evaluation-harness) for evaluating translation & summarization during training. The scripts are available [here]().
+2. Get [bigscience-workshop/lm-evaluation-harness](https://github.com/bigscience-workshop/lm-evaluation-harness): `git clone https://github.com/bigscience-workshop/lm-evaluation-harness`. The script for the 7.1B model, for example, is [here](https://github.com/bigscience-workshop/bigscience/blob/master/evaluation/results/tr13/lmeval/run_generation_7b1.slurm).
 
 We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/openai_humaneval):
 
