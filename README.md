@@ -6,19 +6,20 @@ This repository provides an overview of all components used for the creation of 
 
 <!-- TOC -->
 
-- [Data](#data)
-- [Models](#models)
-- [Create xP3](#create-xp3)
-- [Train models](#train-models)
-    - [BLOOMZ](#bloomz)
-    - [mT0](#mt0)
-- [Evaluate models](#evaluate-models)
-    - [Rank Evaluation](#rank-evaluation)
-    - [Generation Evaluation](#generation-evaluation)
-- [Plots & Tables](#plots--tables)
-    - [Plots](#plots)
-    - [Tables](#tables)
-- [Citation](#citation)
+- [Crosslingual Generalization through Multitask Finetuning](#crosslingual-generalization-through-multitask-finetuning)
+    - [Data](#data)
+    - [Models](#models)
+    - [Create xP3](#create-xp3)
+    - [Train models](#train-models)
+        - [BLOOMZ](#bloomz)
+        - [mT0](#mt0)
+    - [Evaluate models](#evaluate-models)
+        - [Rank Evaluation](#rank-evaluation)
+        - [Generation Evaluation](#generation-evaluation)
+    - [Plots & Tables](#plots--tables)
+        - [Plots](#plots)
+        - [Tables](#tables)
+    - [Citation](#citation)
 
 <!-- /TOC -->
 
@@ -230,9 +231,12 @@ We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/
 - Table 2: Adapted from the Codex paper
 - Table 3: Manual
 - Table 4: `plotstables/compute_codegen_len.ipynb` for generations & `plotstables/countcode.py` for xP3
-- Table 5: `plotstables/levenshtein.py`
-- Table 6: Same as Table 1 with languages swapped from L1 to L2
-- Table 7: [Colab](https://colab.research.google.com/drive/1AWJk3jbrD1VpiMARW-xATalrupwFzZN-?usp=sharing)
+- Table 5: Manual
+- Table 6: Manual
+- Table 7: `plotstables/levenshtein.py`
+- Table 8: Same as Table 1 with languages swapped from L1 to L2
+- Table 9: [Colab](https://colab.research.google.com/drive/1AWJk3jbrD1VpiMARW-xATalrupwFzZN-?usp=sharing)
+- Table 10: [Colab](https://colab.research.google.com/drive/14t9w6QSf2K5BQP0cInyGsreAhY271DLB?usp=sharing)
 - Prompt Appendix: https://github.com/albanie/prompt_formatting_in_latex
 
 ## Citation
