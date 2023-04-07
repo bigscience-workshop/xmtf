@@ -167,6 +167,7 @@ We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP
     - `TRAIN_DATA_PATH` & `VALID_DATA_PATH`, which point to files pointing to your processed training and validation data. We provide our files in this repository (`xp3capmixnewcodelong_train.txt` & `xp3capmixnewcodelong_validation.txt`), but you will likely want to change the paths inside. The percentages per language are based on how much each language makes up in xP3 with code being slightly upsampled.
 - PP_SIZE=72, TP_SIZE=1 & BATCH SIZE & co specifying the layout. This will depend on the hardware available to you. If you change, you may have to reshape the model. For reshaping you need to use the universal checkpoint and use the `--universal` flag in the script. We recommend saving a new checkpoint right after & then continuing training without `--universal`, which will be faster.
 - If you want to restart from a saved checkpoint (e.g. after training a few steps like above), make sure to remove the `--no-load-optim` & `--reset-progress` flags
+- After training, you can convert the checkpoint to transformers format using the script [here](https://github.com/huggingface/transformers/blob/ee8e80a060d65ab349743ffcb5842365eb0e5606/src/transformers/models/bloom/convert_bloom_original_checkpoint_to_pytorch.py)
 
 Helpful resources:
 - [Blog post](https://huggingface.co/blog/bloom-megatron-deepspeed)
