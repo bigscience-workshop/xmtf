@@ -239,12 +239,10 @@ We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/
 ## Citation
 
 ```bibtex
-@misc{muennighoff2022crosslingual,
-      title={Crosslingual Generalization through Multitask Finetuning}, 
-      author={Niklas Muennighoff and Thomas Wang and Lintang Sutawika and Adam Roberts and Stella Biderman and Teven Le Scao and M Saiful Bari and Sheng Shen and Zheng-Xin Yong and Hailey Schoelkopf and Xiangru Tang and Dragomir Radev and Alham Fikri Aji and Khalid Almubarak and Samuel Albanie and Zaid Alyafeai and Albert Webson and Edward Raff and Colin Raffel},
-      year={2022},
-      eprint={2211.01786},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{muennighoff2022crosslingual,
+  title={Crosslingual generalization through multitask finetuning},
+  author={Muennighoff, Niklas and Wang, Thomas and Sutawika, Lintang and Roberts, Adam and Biderman, Stella and Scao, Teven Le and Bari, M Saiful and Shen, Sheng and Yong, Zheng-Xin and Schoelkopf, Hailey and others},
+  journal={arXiv preprint arXiv:2211.01786},
+  year={2022}
 }
 ```
