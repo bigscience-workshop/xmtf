@@ -6,20 +6,19 @@ This repository provides an overview of all components used for the creation of 
 
 <!-- TOC -->
 
-- [Crosslingual Generalization through Multitask Finetuning](#crosslingual-generalization-through-multitask-finetuning)
-    - [Data](#data)
-    - [Models](#models)
-    - [Create xP3](#create-xp3)
-    - [Train models](#train-models)
-        - [BLOOMZ](#bloomz)
-        - [mT0](#mt0)
-    - [Evaluate models](#evaluate-models)
-        - [Rank Evaluation](#rank-evaluation)
-        - [Generation Evaluation](#generation-evaluation)
-    - [Plots & Tables](#plots--tables)
-        - [Plots](#plots)
-        - [Tables](#tables)
-    - [Citation](#citation)
+- [Data](#data)
+- [Models](#models)
+- [Create xP3](#create-xp3)
+- [Train models](#train-models)
+    - [BLOOMZ](#bloomz)
+    - [mT0](#mt0)
+- [Evaluate models](#evaluate-models)
+    - [Rank Evaluation](#rank-evaluation)
+    - [Generation Evaluation](#generation-evaluation)
+- [Plots & Tables](#plots--tables)
+    - [Plots](#plots)
+    - [Tables](#tables)
+- [Citation](#citation)
 
 <!-- /TOC -->
 
