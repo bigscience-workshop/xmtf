@@ -211,8 +211,8 @@ We also evaluate code generation on [HumanEval](https://huggingface.co/datasets/
 
 ### Plots
 
-- Figure 1: `plotstables/xp3_languages.ipynb` & [colab](https://colab.research.google.com/drive/1yRDXktu030DnipFBj6-dwOGNVIdgktA9?usp=sharing)
-- Figure 2: `plotstables/xp3_taxonomy.drawio` & `plotstables/xp3_taxonomy.pdf`
+- Figure 1: `plotstables/xp3_taxonomy.drawio` & `plotstables/xp3_taxonomy.pdf`
+- Figure 2: `plotstables/xp3_languages.ipynb` & [colab](https://colab.research.google.com/drive/1yRDXktu030DnipFBj6-dwOGNVIdgktA9?usp=sharing)
 - Figure 3: `plotstables/xp3_variants.pdf` & [drawings](https://docs.google.com/drawings/d/1wSt_X0olUFcOFQ5D1UnMv1V-LKMr3WZIRIgaFypTP24/edit?usp=sharing)
 - Figure 4: `plotstables/xp3_generalization_bar.pdf` & [colab](https://colab.research.google.com/drive/1bz083LuBJi0-pLOqdr4_ycEctn6obYST?usp=sharing)
 - Figure 5: `plotstables/lang_generalization` & [colab](https://colab.research.google.com/drive/1lFFR6_ijR_iWJQnqIW5y5-LuRnRoRTS3?usp=sharing)
