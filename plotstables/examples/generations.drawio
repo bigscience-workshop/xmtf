@@ -1,1 +1,313 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T22:21:09.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_gJlbXTPZoUq2bubTn2z" version="20.8.23" type="device" pages="9"><diagram id="t_7wr1zB4quzLCbS3wE7" name="Page-1">5Vhdj5s4FP01fowEmA/zCAlpK3VUaWeqkfZlxQQH3BJMiZlk9tf32phgEjKzrZJ0pWGkzPWxfW3fe841CcLzzf5Dk9bFHc9oiRwr2yO8QI4TEhc+JfDSAb5POiBvWNZB9gDcs3+pBi2Ntiyj29FAwXkpWD0GV7yq6EqMsLRp+G48bM3L8ap1mtMT4H6VlqfoI8tE0aHECQb8I2V50a9s+2HXs0n7wfok2yLN+M6AcILwvOFcdNZmP6eljF0fl27e8kzvYWMNrcR/mUD9ZDn7J0qSr4/fPlnOc/VY5DPt5TktW31gvVnx0kdgVzBB7+t0Jds7SDLCcSE2JbRsMBveVhnNdGvNynLOS96ouXjtyT+J80oYePcAvhUN/06NHl890MNhRSYkazwLmqen7bdOG0H3BqRP/4HyDRXNCwzpe0OdiZeeYrq9GxLr9lhhJBUTDaaaTPnB9xBvMHTIfyH8zkT4/VLIwNRpNcqD/6OVTFGRnG2VTiIYYLv1XoWn7wcrV/8TF8UEwdY7I4qUMUcRIB6KPEQClAQojBBoFBDokoMDFMUoWqJkqZD5GT+ALORgYqNoYfgJpOcwQQmRTsKF4YegGJDQmA5GjIhnGD4K1cRh0RARjCKilgDQU1tdoNgeeYaR0jCnL1DYbz6Opk5BpLfY6jcWq+m+QsAIUOzrjUXYOKAvA9iFDg4eJ8Y21Fxwrh3O9VblWhAoB8VYIgTGO8rw1SysNu888hZKE5CTt/DZpILKUlfIz7qhz4y3W4mDRXcdFaGDb5lgzzAG6GdVtBVNKjkHYpLNPFWdeNmTCjja8UpT5Belnm7rrsSu2V4q/kj7acnyCuySrjWDV6zKH3gtNTwAn1W3ifylpWZAMReCbzQmJc6gJEd6ASFdKiHo+8J2+7Y+y2ul6HzJOSpSlnouU3sO91lfe9zT2mMHE7XnAF689uCT2vOpqluhysoRL+CQYkyFcRArXtGjiGuo58QKQkebiVxuWJbJZeIp7g38sqYSbBDAu1CanKM02adp8qduiGslyT17QTz1Kh6KwEHkT7+r8Fcv8zC0sOtOKmhF6NP6jRLgXL4EDO8I2LqufjFcTiYx8JR+yS2Z4Z0wI/785cvd3+9bv771dpq8W6bJ/x8JeBU4me28IpTzV+ON7/YjYV9DwORPCzg4I+DZ3cP71rDjvp2p8JaZsk+/JW8erJkNx33XiXLHxdZ1/niizn+fvn21XcbEs157Lfm9anv916grVNtJalyo2kJz+BFN9Rm/ROLkJw==</diagram><diagram name="Copy of Page-1" id="GPm1WsI5oU8hlBooanVf">7Vhtb9s4DP41+ljA75Y+SrGzG7Bid2uBw+2bFyuJMdsyHKVJ9utHyXIsx257BdL2gKsLFNQjkZT4kJQQ5C+q46c2a7a3Iucl8pz8iPwEeR7BAfxXwKkDogh3wKYt8g5yB+Cu+MUN6Bh0X+R8N1oohShl0YzBlahrvpIjLGtbcRgvW4ty7LXJNnwC3K2ycor+XeRy26HYiwf8D15str1nNyLdTJX1i81JdtssFwcL8lPkL1ohZCdVxwUvVez6uJA9+4fefk/+pH/hb6eySpbN8qYztnyJyvkILa/ldU17nemHrNybeJmzylMfwMO2kPyuyVZqfIAcQT7byqqEkQtiK/Z1znMzWhdluRClaLWuvw7Vn8JFLS28+wDfyVb85NZMpD+YEeCxkCrpQgeG/zIEJlQPvJX8aCWACcknLiou2xMs6WeJYffUp60ZH4ZkCXpsayWKjw2YmQTdnG0PJIBgeHgBJ/6UkzRADCPw2AmUamGBKCAhoiHCMUpjRCiCcgUEptTiGFGG6BKlS40sHrEDSKIWYxfRxLITK8skRSlWRkhi2cGIAUIsdRAYwqElRIhoxcEpQdhHFGsXAIZ6qwli7sgyrFSCrZ4g0m+e0blTYGWNOf3GmFaPNAJCjFhkNkZ964CRCmAXOjg4S61taF0wbgwuzFaVLwiUh5ivEAzrPS1EWsvXm/fMnqneD00RDazNn0On1SHCQ3jtyEMMmVoDrpXWORr6pIoU8EgQPTt1+2gklnrnC1vqWosR41T50kcmy5fWfbZruna9Lo6q/C8aQVYWmxrkkq+lqnNVzfXmXjSqoAfgi562kW+mxCyICSlFZTBV2gW0d2ocSGVS9xdz97hBPzZneaovPd5/LjqWo79XbETnC7NvRMG0EbnxTCM6g1dvRMGkEX2umz24pZNkgUPKcX6MI1uLml/QYKA+UVYQT97OEFwVea7csLmEHJLOmWPdyorwNbnzLrhzp9xFc3fIazEXzlzrUakY+gHCRgmN2BWyeOD9BPg5z131DUCI4wfBbK2tMP+xfqZZeNdvFsPTwnfeodJ9HI6yxZ+rdPyW6RJN0oV9+fr19vtHpU8qPXKe5y58S+7i50t95tHw2kW/ir3c9Z4orscv3vdtBm9W9Pi9ix4/UvQ3t/cfdT+94YPn6SNvSR+Z0FfdOzcuhOCDvEvygnHTDrz3Jq9/H/7HuvaS4dB56kn0f+/as5lzpa4Nw+G3RD1n/SDrp78B</diagram><diagram name="Copy of Copy of Copy of Page-1" id="JvHHhH2hnwVo1r-NOEqD">7Vhbb5swGP01fswEmBB4DKQ3rVm1tdOmvUwuOGAV7MwxufTXzwYTIJC00Zr0YaVSYh/fv3M4/hoAg2x9xdE8mbIIp8AyojWAE2BZnmvLTwVsSsBx3BKIOYlKyKyBe/KMNWhoNCcRXrQ6CsZSQeZtMGSU4lC0MMQ5W7W7zVjaXnWOYtwB7kOUdtEfJBJJibrWqMavMYmTamXT8cqWDFWd9UkWCYrYqgHBCwADzpgoS9k6wKmKXRUX4zv/Ofj8vKI3v6/D5IuHk6/LQTnZ5TFDtkfgmIq3ndoqp16iNNfx0mcVmyqAq4QIfD9HoaqvpEYA9BORpbJmyiJnOY1wpGszkqYBSxkvxsLZUP0pnFHRwMtH4gvB2RNutDjFI1uYXJEIJbqhIauvDIEO1RJzgdcNAeiQXGGWYcE3skvV6ml2N5VsdX1Vi8WusKQhFOhqEGmBxtu5axJkQfNwBCeww8l9Hsd4IdRi6iPFqKjMyBLLL45TJCQDkjWMeJioNwzzbFG8aUBJ1fmTK5H6U3BhAn8MxiaNZQPFOUdqOzQBAQRji6oh2z6sHvjp31SBUhJTWU7xTM22UNTS+IHJQRNYA7dF82RYI990vBuQz4RgmcYUz0S+62O9gFBTFmLTRmTaVV1v/ZBI94txR75G8ZxQlVv3rFRpd1VpjnpU6Z1KlHZHlDd0nstVxx1pyDOKthragaWM4h0WNFTpJJThxLyH34xEkVrG75NfrTmjj/SGKIanpM7aoc7sUuf0+cmpmBv2WLyTKoYeZSFWBSSjPCMhKc1g6wpYrBh/AlawF20NJJK0VBKFqWSlaM5QmBCKS8vilCjXUXiE8bwFlvuRx9tu6U2vIc8zoG33vuGhix9nL1iU9fYWVd9u0HgHf4Ge2RLpVrRNf3F7VHqyS8/pqNS/vbub/vowmI7BOHabO3vY5W54TocZvewwghcZxkQlGHmRYfjAHR1KPQr/aOcr8nS6PlLdn4gc3NePgsCR5QFn9OX2o3bQHrkoB+Yn969wZEWmdcAn9mcu7+tr5/Iv+Fr/Gp3qHXD3+Ndg+vBhYR0Lg+0cCcIe+rxzWpjXoS97MAamDMEHebvk2W3y7J4E97zkVRs4dAHtGrlOZ4Ot6fvAN9U/y4ENpLmUiOcVnYsLwofo6O6d60OveuLr4tJ3h8ahtPJ/vy5soydl6rsu7OMlK6v1T4JFW+N3VXjxFw==</diagram><diagram name="Copy of Copy of Page-1" id="szBr4fKZFT7PUsmRd_DG">7VhRb5swEP41PHYCTEh4TFjbrWqVqa1WaW8UnODV2NQ4TdJfvzOYADGtUq2km1QiRfZ3xsb3fXdnsFCYbc5FlKdXPMHUcu1kY6GvlusGEw/+FbCtAN+fVMBSkKSCnAa4Ic9Yg7ZGVyTBRWeg5JxKknfBmDOGY9nBIiH4ujtswWl31TxaYgO4iSNqonckkWmFTtxxg3/DZJnWKzt+UFmyqB6sd1KkUcLXLQidWigUnMuqlW1CTJXvar88pJunn/n8Yp6c/hbbi3j+8+7ypJrs7C237LYgMJPvO7VbTf0U0ZX2l96r3NYOXKdE4ps8ilV/DRqx0CyVGYWeA03BVyzBie4tCKUhp1yU96LFSP0Uzpls4dUFeCEFf8Ati19eYOGwIpFKdCMbuge6QLvqCQuJNy0BaJecY55hKbYwpLYGmt1tLVvdXzdi8WosbQkFTTQYaYEud3M3JEBD8/AGTpDByQ/Bc17gZ7XaSkmTE1aomCHssezKsketEFnToKiiKcaCReAs0GroWtPZtbbicooEwx/DK8EZLspQk2RBYoJpoYbPZl/+TggRJUsGbYoXUvGs2GTLW54rQhvgsjS3kWvt4hY041LyTGOKWgLhPdULSDVlqS+dexyv7utHf02XL+tvT7F2eQ0oxF3CrIXomUJ0xj1CDIbSoWfo8DvLV7Dq1JAG7FF21dB1LAOV7bGgoVonMbgTix5+M5IkaplZn/wazdl9pLdEMRqSOnePOsekzu9LIUMxN+rJ6j7VccigvVTtOuQjqlOBbsg1Fw+WG7ayQmkhwBAFVjCklsqcRXFKmMokFEeCQahWeIJxboDmCtUjwQ7bT/Wu9ScIbOR5fXG+i+fXEpX7/omqKWvIlOxA+kSB09HnTq/t1DLpEehgJc43BDq7nM+vfn3mFiO3+F6XO29kcjc6ZnKZvMDdydXtJ30GfahbGlAffcEx6QsM+rJb+8QBF3ySt0+e1409z/1o8uqDRU9lv9+V9TxXjiBFod6My9Ir2kf/0CjlrcM/+Lgpy/eD1OSz2WRk17T2VeR/tVYfqzx7h5ZnbyiZjQ86P4qDXyhNEe4PLw+bXeHCqy4QFEnyuML9A3LBQUNJvxGzZgQsc4zTZjx2E8f9D5X9IadQ1POW1Cvz3SeZN+gcus2HudLW+rqJTv8A</diagram><diagram name="Copy of Copy of Copy of Copy of Page-1" id="tzSWLhcU0Ls-_Nlsola9">7Vlbj9o4FP41PM4o98tjAqSt1NlWnZFW6lsgJqQTYjaYAv31aye+JXYY6JKZrTS0YpzPl+Nzvi8+J2FiTzfHD3W6XT/ADJQTy8iOE3s2sawwcPA3AU4t4HlBC+R1kbWQKYDH4hegoEHRfZGBXWcggrBExbYLLmFVgSXqYGldw0N32AqWXavbNAcK8LhMSxX9u8jQukUDyxf4R1Dka2bZ9MK2Z5OywdST3TrN4EGC7PnEntYQora1OU5BSWLH4pI7P/y1efy0SL6enr2vVXT6C921iyXXTOEu1KBCt13aapf+mZZ7Gi/qKzqxAB7WBQKP23RJrg9YIxM7XqNNia9M3KzhvspARq9WRVlOYQnrZq69csk/gsMKSXj7wfgO1fAZSD1e88E9EFssEBGda+DLC0NAQ/UT1AgcJQHQkHwAcANQfcJDWG9I2T0x2dLrgxCLw7C1JBQ7oGBKBZrztQUJuEF5uIITW+FkftyWaVGRieQrJQThOIAKc0KxJ1Du8z3Z9zpFBNzhr0W6fN7WOJJ5igrI51dgX6dl00AHWD/v7v8b6WlZ5BVul2CFCKeEuSp/gnjSzBbA56Z75grkGw2nBMUQIbihGKGxwLdyRA0gsmSjJXrOmA67pls/p8FhrfXUaTSfEUXHD0cmOkcVnRloRDea5hxFc5+q7R5bjRRpYB9RVw3dwFawAj0WKMR0siTarTX8boosI2ZinfyE5gwd6ZIo3DGps3rUmSp1nu64GIs5V3OCeyVhaNHhzftnTxJVE6i7XRMpzK1hmttjEy7Wj1t583duTGJjElqsgQ0ZtB0FTcOcBDOGJAzh45P+mJhNj+fddfD/RFjhszTmvOHF3a4VqUu7ZmwxMJYMTQf8kvas32H0srOx4kWsuC+i52usBK4SEJ8hnliKj9dyxzcW8tXmbLVArK8xOhsOjm6iYIQNi/x+TLgAsOPWVDJ61i9BMfdlqthKlFh12RfccS1FGorVAIZ8b84NohTFYkt9FxxFQpbilCntIeyqUXYt7m9eI7lIdMlcvG20z91Z6inkiLD8PzkSt7yruJNc4RdnTbpB7tnBj/PIgh/jtyznw9CwHUdbSi0DsFi9UAtat68FxVOCbZwp5OTqwByxOrBDs1MdWIZ7WWFnWu5I9YGn1Afx5y9fHr6/l3ZKaec5XfI8TVXuvmZt5//5tV07xiLJI5gKc+rJKE7SZPBklLNXP0PIZ2LUn9g5zYczirqHSEl1wsr0rMsyYty+LPtTStW+ZmQrvLAwx09dS9/KTOtMihh+O/D2Ke11Ulf3wda2L0xd3linXzCQue4ent6Tl5K87B59roa+8DWTV6jQt3ky7kwcgnfy+uQ5XfIc079/a/rYe62xig/1HYaUD5R8P9cVKL89cbiyEUupz3w8rSo1Ac/Z4q3Sxa+vNO9LrnqDZbz0Kss/t4ioBuJB67GvOHJJpm9Mi2G8ouLpP+mObxA7Gb0SSOLANc49LL5XAt2HWEfzk5i+Erj+GRZfih9Qmz7pV2h7/i8=</diagram><diagram name="Copy of Copy of Copy of Copy of Copy of Page-1" id="YNNUIgaxl7cqQpXwaqU9">7Vlbb5swFP410Z5acQ95XNLb1GbZkmyt+lI54IBVY2dgctmvnw0mQHB6W0k1LURC9odvnO/zOcekYw6i9WUMFuGQ+hB3DM1fd8yzjmH0XIvfBbDJAcdxcyCIkZ9DeglM0G8oQU2iKfJhUmvIKMUMLeqgRwmBHqthII7pqt5sTnF91gUIYAOYeAA30VvkszBHXaNb4lcQBWExs+708icRKBrLN0lC4NNVBTLPO+YgppTlpWg9gFjYrrCLMaLrH8uxETgEzE5wol13nZN8sIvXdNm+QgwJe9+hjXzoJcCptJd8V7YpDLgKEYOTBfBEfcU10jH7IYswr+m8GNOU+NCXtTnCeEAxjbO+5twWP4FTwip4fnE8YTF9hJUnTnbxJ5TPiJgQna3x6gtNIE21hDGD64oApEkuIY0gize8SfG0J9ndFLKV9VUpFqvAwopQTFeCQAo02I5dksALkodXcGI2OLkNxYpRIvZOCAU9jwKYZQ0u/o4xgFFAeBnDOROECLOTYEp5pzOjBG6yx2d2iYylLSpQnzJGI4kJDhDfh5/lBEwMmQlBOgndKupy6U8JaL9QdqSlZVeLitl6tkIxdlMxuqtSTFuCsRqC+UIWKZ/1c0Ma/B1ZXQ11wxJK4A4LEip04nFzwljBb4R8X0zTV8mv1JymIr0iCrtN6owd6vQmdc4hmbMV7tfBgqEZLwSiMAbcTnwpgkcPMG57vtFOi2Z81m3Ld/XcvZ5mWpZy43kunM0P7znKgGBqH7DtTdeuacf48G3vNMTTvxmNhvfHfd/Y9/YLuLMPyV337Rtfm2YpQBb8Rdos2DI0Ot9JDrJswc/aMMpvyuGKjklKcPbWfFzRGbCIJouQt/FEJkwx9FIMk/bdjtc1fN14YnvvzwM+1h0dzO243Ze5neLc9u7Sdfe5HbEmJvQloioX3SMkQoMRIvyOIQnEeo+u6emUxFSkJHpbOcnIfFgPvcn1tbYm/SscD6YPl/IUWeU3mmonOjfBkbxn4sr2THiIuHKnad83+Gd0HW++0vHEHZ6HdwryGnFlBj2QJnAnZqSkdd9+0Xdt7anU7X/37Ur5tJVSKuWjv10+n4Svj4GPAENUePyEu3/E0FIYUuYgMsc46uxjdWYZL9SZ1ZbOmp8dixhzTCLelETsEmwfLg7dX0y+MWjPxrP5pWEvA4PiviIOZUnikbpnj6aK78+HpW5/DPDRsnTY27BQ4dL5ldIMBd5jkNn3JD+fCto1RHg4ADjvLVtWxpPIc9+6Kz0VYWSLKdaqXv6/Ov/p6Z7TuHoJ7xhfda7RHlTG0eOnwTyWKtyvKr46r9/DvFr+45g9q/xta57/AQ==</diagram><diagram id="Po5qWpqbbVU2PWY10zOS" name="Page-7">5Vhdb9s6DP01AXYfVthxkiaPTZquA1p0WDoMuC+DbCu2OlnyZLlJ+usvKcmfcbsNS+7LUqCxDkWKIqlDK6Ngle0/KJKn9zKmfDT24v0ouB6Nx4v5BP4jcLDAzPctkCgWW6gFbNgLdaDn0JLFtOhM1FJyzfIuGEkhaKQ7GFFK7rrTtpJ3V81JQo+ATUT4MfqVxTq16Hx82eC3lCVptbI/W1hJRqrJbidFSmK5a0HBehSslJTaPmX7FeUYuyouVu/mFWntmKJC/4oCub+eb2++pesg292uMk+VHw/vnZVnwku3YeesPlQR2KVM001OIhzvIMmjYJnqjMPIh0clSxHT2I22jPOV5FIZ3WA7xT/EpdAt3H4AL7SS32lLMjMfkEhYkWmsmqkHw+PdVq5Tpem+Bbndf6Ayo1odYEolXbhMHKoSc+Ndk9hJhaWtpAZzBxJXTEltu4k3PLiQ/0b4xwPhn3HtAtbJw+xHKSvB+8KckyuY4Pv53oSnksNTgt9fFaQNfcaqJ8wEQmNZAxTKUjsRxN+4WZBnJhIH5oqJiBYFqiqZOTQmIqGQboRjRRIpLuDpMaXHK7DC6WSk0FTljEYI65Tguikx4ihl9BkqB9cjrMAJO6l4DOkwXgoUMY1zM6kIr+w2e70FdyhCK8gHigX8uzL72aQkNyJrBomlaBTR8Y2WxuV3RgsKXLAi/cdE1aYAMmqzYAP6ZweDcJYIeOZ0i8YKrG6RPEpQuh43wJ0RX08b5LOrwxa0lFpDViyG9c+Ar67cAhpNmipxZOr71di5/tY5ff089k6wZz6nOZg12VcHc3p8MAN/4GBenutcBkfn8qPI4cxgcfSqAPaou4nvxlBIQXsBd1BVEhFEjqqBVGYsjnGZ5VClNeXlDeW3lf/pibI07mXJP87SbIg9z5WkyavkGf4Rc56Mgr8gsSjKhIRvigPzbhTK4keJdEULTUJkyZA84ZQSp0ApKBYaFkWSHa2C0TKwTCtjiYzGzX9rgkHpCE2URNUYVCUMMNi8q48cWioGfGlMrbnx7GCyCRaJcxS/zdI5VBZoXl0TUVnLSxpyWa/MDbvGYJJUrgtmVvNh0qo3LykLdMyaNO2GPxtHKW/FyPA+t32DxyxijffutbIbERPguLa66m8lZtL1IV6+uKe+p/jmaGAURiSkL8RkSyrTUjA88qkV8VDBSYa0CaOaSZtHBfVKip+GlpPM5cqEtO3GmnMm9UX9hOYVtM1W0NCeaZPgsuGKloyKam9P8tkMEpYQqA60iNPmC97EvVZrZfbi1b5Xw+FpemGv+SwWXjCZDDafaE7D7U+6Z6sxnqp7Nu+eQUWuQ62v32TdAs70CSg38LqUW3Npi3LrJtjmXH86ORPpTo9Id3n38HD/79/dGv3xxbSbqcX4KFOX0/M0x+D2Tu/LDdkkXpl+p58+B7ffBi92p2iOa1GRmpCRefVvSBuuDZltB5pmOXa32JJy2eKjfl9aVbwYIws+ODZ3gkTynNqpNX23Lig1g0G2kb+8q8Kq12xtW6q947y50rasLkt1ayKtfZnVcIW7kiauv8EGaa0JyylmDOcSlTU264uzc+fNcj713uKo11/o/+cbyQCntrnzDGwZLH6RLU9xjRg8hMfX++zR+7uZsneJmIyPc+QP/gbz+zmCYfPrmpG1fqIM1v8B</diagram><diagram name="Copy of Page-7" id="kDwlM-gXW0uvdWDpWJS4">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</diagram><diagram id="QDfFW6tP3y6DDqoXGbGo" name="Page-8">ddG9DoIwEADgp+mOrUGYEXVxYnBu6EmbFI6UGtCnF3IgNujSXL+79vrDRFYPZydbfUUFlvFIDUwcGedpsh/HCZ4EcZwQVM4oot0KhXnBjNGsD6OgCwo9ovWmDbHEpoHSByadwz4su6MNu7aygg0UpbRbvRnlNWnCD6tfwFR66byLU8rUcimeb9JpqbD/IpEzkTlET1E9ZGCnt1vehdad/mQ/B3PQ+B8LxmDde5wEHyTyNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-05-30T18:22:50.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="52CTPXn22so1_zmxyhbK" version="21.3.5" type="device" pages="10">
+  <diagram id="t_7wr1zB4quzLCbS3wE7" name="Page-1">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-1" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一个传奇的开端，一个不灭的神话，这不仅仅是一部电影，而是作为一个走进新时代的标签，永远彪炳史册。Would you rate the previous review as positive, neutral or negative?&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="210" y="140" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-3" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-4" value="&lt;b&gt;positive&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="385" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-5" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="260" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-6" value="&lt;b&gt;positive&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="385" y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-7" value="BLOOMZ-MT:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="224" y="380" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-11" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="240" y="420" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6EF-_AEEUWjI02vnWhg-12" value="&lt;b&gt;positive&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="385" y="420" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-1" id="GPm1WsI5oU8hlBooanVf">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-0" />
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-1" parent="9uBYAMZDPAQ8RylmDFpF-0" />
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-3" value="一个传奇的开端，一个不灭的神话，这不仅仅是一部电影，而是作为一个走进新时代的标签，永远彪炳史册。你认为这句话的立场是赞扬、中立还是批评？" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="210" y="140" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-5" value="&lt;b&gt;positive&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="385" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="260" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-7" value="&lt;b&gt;赞扬&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="385" y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-8" value="BLOOMZ-MT:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="224" y="380" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-9" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="240" y="420" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9uBYAMZDPAQ8RylmDFpF-10" value="&lt;b&gt;赞扬&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="9uBYAMZDPAQ8RylmDFpF-1" vertex="1">
+          <mxGeometry x="385" y="420" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Copy of Page-1" id="JvHHhH2hnwVo1r-NOEqD">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-0" />
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-1" parent="0UrX-KzwnI_HchN9ehQv-0" />
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-3" value="Suggest at least five related search terms to &quot;Mạng neural nhân tạo&quot;." style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=3;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="210" y="140" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-5" value="&lt;b&gt;artificial neural network, neural network, artificial intelligence, machine learning, deep learning&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="391" y="220" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="264" y="245" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-7" value="&lt;b&gt;trí tuệ nhân tạo, mạng thần kinh, mạng nơ-ron, mạng nơ-ron nhân tạo, mạng nơ-ron sâu&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="391" y="320" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-8" value="BLOOMZ-MT:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="230" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-9" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="240" y="410" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0UrX-KzwnI_HchN9ehQv-10" value="&lt;b&gt;mạng neural, tự động hóa, tự động hóa mạng neural&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="0UrX-KzwnI_HchN9ehQv-1" vertex="1">
+          <mxGeometry x="391" y="405" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Page-1" id="szBr4fKZFT7PUsmRd_DG">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-0" />
+        <mxCell id="khxvVpOJOdEjryJcOVWL-1" parent="khxvVpOJOdEjryJcOVWL-0" />
+        <mxCell id="khxvVpOJOdEjryJcOVWL-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-3" value="Proposez au moins cinq mots clés concernant «Réseau de neurones artificiels»." style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="210" y="140" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-5" value="&lt;span&gt;artificial neural network, artificial intelligence, machine learning, deep learning, neural network&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#000000;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontStyle=1" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="391" y="220" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="264" y="245" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-8" value="BLOOMZ-MT:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="230" y="345" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-9" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="244" y="425" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-10" value="&lt;b&gt;apprentissage, réseau, intelligence artificielle&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#000000;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="391" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="khxvVpOJOdEjryJcOVWL-7" value="&lt;span&gt;réseau de neurones artificiels, réseau de neurones, apprentissage automatique, apprentissage profond, apprentissage en profondeur&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#000000;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontStyle=1" parent="khxvVpOJOdEjryJcOVWL-1" vertex="1">
+          <mxGeometry x="391" y="310" width="180" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Copy of Copy of Page-1" id="tzSWLhcU0Ls-_Nlsola9">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-0" />
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-1" parent="g4j7h1xIbFPyk6PnAyNt-0" />
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-3" value="Explain in a sentence in Telugu what is backpropagation in neural networks." style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=3;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="210" y="140" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-5" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;ఒక న్యూట్రానిక్ నెట్వర్క్ లో బ్యాక్ ప్రాసెసింగ్ అనేది ఒక రకమైన అభ్యసన విధానం, ఇది రీజియన్ ల యొక్క గత అభ్యసన ఫలితాలను ఉపయోగించి, రీజియన్ ల యొక్క ప్రస్తుత అభ్యసన ఫలితాలను సవరిస్తుంది.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;fontSize=11;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="391" y="205" width="180" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="264" y="260" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-7" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;ఒక న్యూట్రాన్‌కు తిరిగి పంపిన ప్రతిబింబాన్ని ఒక రకమైన బ్యాక్ ప్రాసెసింగ్ అంటారు.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontSize=11;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="390" y="335" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-8" value="BLOOMZ-MT:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="230" y="355" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-9" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="240" y="417.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g4j7h1xIbFPyk6PnAyNt-10" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;నేరుగా నేరుగా న్యూరోలాజికల్ నెట్ వర్క్ లలో బేక్ పోర్షన్ అంటే ఏమిటి?&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontSize=11;" parent="g4j7h1xIbFPyk6PnAyNt-1" vertex="1">
+          <mxGeometry x="391" y="400" width="180" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Copy of Copy of Copy of Copy of Page-1" id="YNNUIgaxl7cqQpXwaqU9">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-0" />
+        <mxCell id="2OoxUvR2g6nab-ls0K76-1" parent="2OoxUvR2g6nab-ls0K76-0" />
+        <mxCell id="2OoxUvR2g6nab-ls0K76-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-3" value="Why is the sky blue?" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="210" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-5" value="&lt;b&gt;Rayleigh scattering.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="385" y="250" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="255" y="250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-7" value="&lt;b&gt;Rayleigh scattering. The blue color of the sky is due to Rayleigh scattering of sunlight by atmospheric molecules.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#c72d12;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="385" y="287" width="180" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="2OoxUvR2g6nab-ls0K76-8" value="BLOOMZ with 10 tokens min length:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="220" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3_xMcSKK0xnBHlrCT_G-0" value="mT0-13B:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="255" y="380" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X00QylVmKryNoRS8MEhX-0" value="&lt;b&gt;because of the sun&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="385" y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X00QylVmKryNoRS8MEhX-1" value="&lt;b&gt;because of the sun&#39;s radiation sensitivity to light&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="385" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X00QylVmKryNoRS8MEhX-2" value="mT0-13B with 10 tokens min length:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="225" y="425" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSPte5bRbfG25vg2olB-0" value="BLOOM:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="255" y="200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFSPte5bRbfG25vg2olB-1" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&quot;Why is the sky blue?&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;Why is the sky blue?&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&quot;Why is the sky blue?&quot;...&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#12009e;strokeColor=#6c8ebf;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;" parent="2OoxUvR2g6nab-ls0K76-1" vertex="1">
+          <mxGeometry x="385" y="185" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Po5qWpqbbVU2PWY10zOS" name="Page-7">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aMD8fF_hE3mwHCm0ruIy-1" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="aMD8fF_hE3mwHCm0ruIy-2" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Write a fairy tale about a troll saving a princess from a dangerous dragon. The fairy tale is a masterpiece that has achieved praise worldwide and its moral is &quot;Heroes Come in All Shapes and Sizes&quot;. Story (in Spanish):&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=11;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="210" y="150" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aMD8fF_hE3mwHCm0ruIy-3" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aMD8fF_hE3mwHCm0ruIy-4" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Un reino en el bosque estaba bajo un terrible dragón. Todos los que intentaron derrotar al dragón murieron. El rey y la reina le pedían al pueblo que les diera un niño, que les gustaría salvar el reino de la maldición del dragón. Un día, la reina dio a luz a un niño con una cabeza enorme y ojos que brillaban como estrellas. El rey y la reina llamaron al niño Elliot. Elliot crecería y se convertiría en un joven gigante. Él salvaría al pueblo.&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;fontSize=11;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="300" y="230" width="270" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="aMD8fF_hE3mwHCm0ruIy-5" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="212.5" y="292" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3HLtxuSaSg0uhkePR3H_-1" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;En la noche de la primera tempestad, un gigante dragón, llamado Odín, golpeó a una princesa al dedo. Así que un troll, llamado Odín, fue a salvar a la princesa. Luego, este fue querido por todos.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="300" y="390" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3HLtxuSaSg0uhkePR3H_-2" value="mT0:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="220" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-7" id="uO8aSeHSbLeriX02XjP6">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-0" />
+        <mxCell id="ptVlhke0Oilji3zCFSM1-1" parent="ptVlhke0Oilji3zCFSM1-0" />
+        <mxCell id="ptVlhke0Oilji3zCFSM1-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Write a fairy tale about a troll saving a princess from a dangerous dragon. The fairy tale is a masterpiece that has achieved praise worldwide and its moral is &quot;Heroes Come in All Shapes and Sizes&quot;. Story (in Spanish):&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=11;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="210" y="150" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-5" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Un reino en el bosque estaba bajo un terrible dragón. Todos los que intentaron derrotar al dragón murieron. El rey y la reina le pedían al pueblo que les diera un niño, que les gustaría salvar el reino de la maldición del dragón. Un día, la reina dio a luz a un niño con una cabeza enorme y ojos que brillaban como estrellas. El rey y la reina llamaron al niño Elliot. Elliot crecería y se convertiría en un joven gigante. Él salvaría al pueblo.&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=5;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;fontSize=11;spacing=5;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="300" y="230" width="270" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="212.5" y="292" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-7" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;En la noche de la primera tempestad, un gigante dragón, llamado Odín, golpeó a una princesa al dedo. Así que un troll, llamado Odín, fue a salvar a la princesa. Luego, este fue querido por todos.&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#FB8500;fontColor=#000000;strokeColor=#666666;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;opacity=30;fontSize=11;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="300" y="390" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ptVlhke0Oilji3zCFSM1-8" value="mT0:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="ptVlhke0Oilji3zCFSM1-1">
+          <mxGeometry x="220" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copy of Page-7" id="kDwlM-gXW0uvdWDpWJS4">
+    <mxGraphModel dx="984" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-0" />
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-1" parent="HTqX0WZq1fkhwt2J8BgE-0" />
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-2" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;opacity=50;" parent="HTqX0WZq1fkhwt2J8BgE-1" vertex="1">
+          <mxGeometry x="190" y="100" width="400" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-3" value="Write a fable about wood elves living in a forest that is suddenly invaded by ogres. The fable is a masterpiece that has achieved praise worldwide and its moral is &quot;Violence is the last refuge of the incompetent&quot;. Fable (in Hindi):" style="whiteSpace=wrap;html=1;rounded=1;align=left;spacingTop=2;spacingLeft=5;spacingRight=5;spacingBottom=5;verticalAlign=top;fontSize=11;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#000000;" parent="HTqX0WZq1fkhwt2J8BgE-1" vertex="1">
+          <mxGeometry x="210" y="140" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-4" value="Input:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="HTqX0WZq1fkhwt2J8BgE-1" vertex="1">
+          <mxGeometry x="220" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-5" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;एक समय की बात है, देवदार के वृक्षों से आच्छादित एक वन में एक समुदाय रहता था जिनमें से प्रत्येक व्यक्ति का कद एक फ़ीट का चार इंच ही था, परंतु वे लोग बहुत ही बुद्धिमान और सभ्य थे। उनके बीच परस्पर प्रेम और भाइचारे की भावना थी। अपने पड़ोसियों के प्रति उनके व्यवहार और आदर को देखकर लोग आश्चर्य में पड़ जाते थे। वे वृक्षों की छाल के बने हुए छोटे-छोटे कमरों में रहते थे। अपनी बुद्धिमत्ता के कारण तो वे लोग प्रसिद्ध थे ही, पर विशेष रूप से अपने सदगुणों के कारण उनका नाम दूर-दूर तक मशहूर था। वे लोग स्वयं को डंगऑल (Dongal) कहते थे। वे जिस वन में रहते थे, उसी वन की हरियाली और पेड़-पौधों के कारण ही तो वह वन इतना आकर्षक था। डंगऑल उस वन के स्वामी नहीं थे। उनकी बस एक शर्त थी कि वे हर एक पेड़ पर केवल एक ही घर बनाएँगे। एक दिन उस वन में घुस आए कुछ लोग जो स्वभाव से ही जंगली और असभ्य थे। उन्होंने उस वन में अपना आधिपत्य जमा लिया। वे बहुत विशाल कद के थे और उनकी आँखें सुर्ख़ लाल रंग की थे। उन्होंने उस वन की हरियाली नष्ट कर दी और वृक्षों को काटना शुरू कर दिया।&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#990344;strokeColor=#6c8ebf;align=left;spacingTop=5;spacingLeft=10;spacingRight=10;spacingBottom=5;verticalAlign=top;opacity=30;fontColor=#000000;fontSize=11;spacing=5;" parent="HTqX0WZq1fkhwt2J8BgE-1" vertex="1">
+          <mxGeometry x="270" y="220" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HTqX0WZq1fkhwt2J8BgE-6" value="BLOOMZ:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="HTqX0WZq1fkhwt2J8BgE-1" vertex="1">
+          <mxGeometry x="196" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QDfFW6tP3y6DDqoXGbGo" name="Page-8">
+    <mxGraphModel dx="984" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
