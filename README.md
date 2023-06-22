@@ -160,7 +160,7 @@ We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP
 
 For the new extension of xP3, [xP3x](https://huggingface.co/datasets/Muennighoff/xP3x), the process is largely the same except:
 
-1. Install the `xp3` branch instead i.e. `pip install git+https://github.com/Muennighoff/promptsource.git@xp3x`
+1. Install the `xp3x` branch instead i.e. `pip install git+https://github.com/Muennighoff/promptsource.git@xp3x`
 3. The creation script is in this repository & named `create_xp3x.py`.
 
 xP3x is a superset of xP3, so unless you want to reproduce the paper, we recommend always using xP3x (or xP3mt if you want machine-translated prompts).
