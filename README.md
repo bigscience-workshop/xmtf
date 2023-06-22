@@ -31,6 +31,11 @@ This repository provides an overview of all components used for the creation of 
 <th>Example models</th>
 </tr>
 <tr>
+<td><a href=https://huggingface.co/datasets/Muennighoff/xP3x>xP3x</a></t> 
+<td>Mixture of 17 tasks in 277 languages with English prompts</td>
+<td>WIP - Join us at Project Aya @<a href=https://cohere.for.ai/>C4AI</a> to help!</td>
+</tr>
+<tr>
 <td><a href=https://huggingface.co/datasets/bigscience/xP3>xP3</a></t> 
 <td>Mixture of 13 training tasks in 46 languages with English prompts</td>
 <td><a href=https://huggingface.co/bigscience/bloomz>BLOOMZ</a> & <a href=https://huggingface.co/bigscience/mt0-xxl>mT0-13B</a></td>
@@ -142,7 +147,7 @@ This repository provides an overview of all components used for the creation of 
 </tr>
 </table>
 
-## Create xP3
+## Create xP3(x)
 
 We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP3). If you want to recreate it, follow these steps:
 
@@ -152,6 +157,13 @@ We have processed & uploaded [xP3](https://huggingface.co/datasets/bigscience/xP
 - For xP3mt, set `USE_ENGLISH_PROMPTS = False` in the beginning
 - For xP3, set `USE_ENGLISH_PROMPTS = True` in the beginning
 4. Run the script, such as via `python prepare_xp3.py` or a [SLURM script](https://github.com/bigscience-workshop/bigscience/blob/master/data/xp3/prepare_xp3_train.slurm)
+
+For the new extension of xP3, [xP3x](https://huggingface.co/datasets/Muennighoff/xP3x), the process is largely the same except:
+
+1. Install the `xp3` branch instead i.e. `pip install git+https://github.com/Muennighoff/promptsource.git@xp3x`
+3. The creation script is in this repository & named `create_xp3x.py`.
+
+xP3x is a superset of xP3, so unless you want to reproduce the paper, we recommend always using xP3x (or xP3mt if you want machine-translated prompts).
 
 ## Train models
 
