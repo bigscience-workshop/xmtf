@@ -2,7 +2,7 @@
 
 ![](xmtf_banner.png)
 
-This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786).
+This repository provides an overview of all components used for the creation of BLOOMZ & mT0 and xP3 introduced in the paper [Crosslingual Generalization through Multitask Finetuning](https://arxiv.org/abs/2211.01786). [Link to 25min video](https://www.youtube.com/watch?v=LG_N5ITizDo&pp=ygU4Q3Jvc3NsaW5ndWFsIEdlbmVyYWxpemF0aW9uIHRocm91Z2ggTXVsdGl0YXNrIEZpbmV0dW5pbmc%3D) on the paper by Samuel Albanie; [Link to 4min video](https://www.youtube.com/watch?v=DFMH9f2cj3A&t=8s&pp=ygU4Q3Jvc3NsaW5ndWFsIEdlbmVyYWxpemF0aW9uIHRocm91Z2ggTXVsdGl0YXNrIEZpbmV0dW5pbmc%3D) on the paper by Niklas Muennighoff.
 
 <!-- TOC -->
 
